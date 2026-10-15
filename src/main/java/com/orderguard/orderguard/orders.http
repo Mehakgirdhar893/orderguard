@@ -1,0 +1,9 @@
+
+POST http://localhost:8080/orders
+Content-Type: application/json
+
+{
+  "id": 4,
+  "productName": "Headphones",
+  "amount": 1800.0
+}
